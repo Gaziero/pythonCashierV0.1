@@ -2,7 +2,7 @@
 A kinda simple program, functions as a (very simple) cashier system.
 
 WHY I'VE MADE THIS?
-  This is a simple project, I'm doing it to improve and test my knowledge in python while making something usefull.\n
+  This is a simple project, I'm doing it to improve and test my knowledge in python while making something usefull.
   My family have a little ice cream store, wich is where I work. I use a cashier system all the time, so I've decided I'd tryto make my own.
   From the start I knew it wouldn't be easy, but also, that it would be fun.
   It worked, i've learned a lot, discovered that I need to learn thousands times more, but that's cool, I'm aimming for it.
